@@ -5,7 +5,7 @@ date: 2021-02-17T09:56:36.020Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: daerah-wonogiri.jpg
   focal_point: Smart
   preview_only: false
 ---
