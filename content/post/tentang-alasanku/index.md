@@ -5,7 +5,7 @@ date: 2021-02-17T10:12:14.531Z
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: tribe-mengenal-dunia-ti-atau-it-teknologi-informasi-information-technology-yogasugama-00.jpg
   focal_point: Smart
   preview_only: false
 ---
