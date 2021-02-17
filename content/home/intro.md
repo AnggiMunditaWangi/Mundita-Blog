@@ -7,6 +7,6 @@ title: ✏️ Mundita's Blog
 subtitle: Welcome :)
 design:
   background:
-    color: "#0b090a"
+    color: rgba(11, 9, 10, 0.1)
     text_color_light: true
 ---
