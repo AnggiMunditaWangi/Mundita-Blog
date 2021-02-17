@@ -3,7 +3,7 @@ title: Tentang Alasanku
 subtitle: Alasanku kuliah IT
 date: 2021-02-17T10:12:14.531Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
