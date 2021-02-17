@@ -4,7 +4,7 @@ widget_id: ANGGI
 headless: true
 weight: 10
 title: ✏️ Mundita's Blog
-subtitle: For [Wowchemy Website Builder](https://wowchemy.com/)
+subtitle: Welcome :)
 design:
   background:
     color: "#090a0b"
