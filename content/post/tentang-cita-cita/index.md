@@ -1,5 +1,5 @@
 ---
-title: Tentang cita-cita
+title: Tentang IT dan Cita-cita
 subtitle: Fokus bidang IT dan cita-cita
 date: 2021-02-17T10:20:00.527Z
 draft: false
